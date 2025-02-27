@@ -1,1 +1,1 @@
-# JujunMunawar_2306148_P1
+Proyek ini menggunakan Decision Tree Classifier untuk memprediksi apakah produk perlu di restock berdasarkan data Jumlah Terjual dan Stok. Model dilatih dengan data yang telah dibersihkan, kemudian dievaluasi menggunakan akurasi. Setelah itu, pengguna dapat memasukkan data produk baru untuk memprediksi kebutuhan restock secara otomatis.
